@@ -1,0 +1,20 @@
+task_id,task_name,section_id,section_name
+TASK-001,Process new passport application - TASK-001,SEC-001,First-time Passport Applications
+TASK-002,Process new passport application - TASK-002,SEC-001,First-time Passport Applications
+TASK-003,Handle passport renewal/update - TASK-003,SEC-002,Renewals and Updates
+TASK-004,Handle passport renewal/update - TASK-004,SEC-002,Renewals and Updates
+TASK-005,Handle passport renewal/update - TASK-005,SEC-002,Renewals and Updates
+TASK-006,Handle passport renewal/update - TASK-006,SEC-002,Renewals and Updates
+TASK-007,Apply correction/amendment - TASK-007,SEC-003,Corrections and Amendments
+TASK-008,Apply correction/amendment - TASK-008,SEC-003,Corrections and Amendments
+TASK-009,Apply correction/amendment - TASK-009,SEC-003,Corrections and Amendments
+TASK-010,Reissue lost/stolen passport - TASK-010,SEC-004,Lost/Stolen Passport Reissue
+TASK-011,Reissue lost/stolen passport - TASK-011,SEC-004,Lost/Stolen Passport Reissue
+TASK-012,Reissue lost/stolen passport - TASK-012,SEC-004,Lost/Stolen Passport Reissue
+TASK-013,Verify documents - TASK-013,SEC-005,Document Verification
+TASK-014,Verify documents - TASK-014,SEC-005,Document Verification
+TASK-015,Verify documents - TASK-015,SEC-005,Document Verification
+TASK-016,Handle special case - TASK-016,SEC-006,Special Cases
+TASK-017,Handle special case - TASK-017,SEC-006,Special Cases
+TASK-018,Handle special case - TASK-018,SEC-006,Special Cases
+TASK-019,Handle special case - TASK-019,SEC-006,Special Cases
